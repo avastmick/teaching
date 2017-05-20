@@ -215,7 +215,7 @@ ___
 - Save the file 
 - Name the file ``HelloWorld.py``
 
-![](/images/lessons/intro-to-prog/IDLE-Editor.png)
+![](images/lessons/intro-to-prog/IDLE-Editor.png)
 
 ___
 

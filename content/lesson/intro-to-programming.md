@@ -21,7 +21,7 @@ weight = 1
 
 An intro to programming
 
-![](/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
+![](images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
 {{<revealjs theme="moon" progress="true" controls="true" progress="true" history="true">}}
 ## Lesson Overview
