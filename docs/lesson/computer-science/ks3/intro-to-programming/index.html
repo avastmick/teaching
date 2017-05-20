@@ -9,7 +9,7 @@
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 
-    <title> :: Teaching Resources</title>
+    <title>Introduction to Computers and Programming :: Teaching Resources</title>
     <link href="/teaching/css/nucleus.css" rel="stylesheet">
     <link href="/teaching/css/font-awesome.min.css" rel="stylesheet">
     <link href="/teaching/css/hybrid.css" rel="stylesheet">
@@ -30,7 +30,7 @@
 <link href="/teaching/css/theme-gold.css" rel="stylesheet">
 
   </head>
-  <body class="" data-url="/teaching/_header/">
+  <body class="" data-url="/teaching/lesson/computer-science/ks3/intro-to-programming/">
     
 <nav id="sidebar" class="">
   <div id="header-wrapper">
@@ -77,18 +77,24 @@
     
         <li data-nav-id="/teaching/lesson/computer-science/computer-science/" class="dd-item 
          
-        
+        parent
         "
         >
             <a href="/teaching/lesson/computer-science/computer-science/">
                 <span>Computer Science</span>
                 
                     
-                        <i class="fa fa-angle-right fa-lg category-icon"></i>
+                        <i class="fa fa-angle-down fa-lg category-icon"></i>
                     
                 
                 
             </a>
+            
+                
+                
+                
+                    
+                
             
             
             
@@ -101,18 +107,24 @@
     
         <li data-nav-id="/teaching/lesson/computer-science/ks3/ks3/" class="dd-item 
          
-        
+        parent
         "
         >
             <a href="/teaching/lesson/computer-science/ks3/ks3/">
                 <span>Computer Science - KS3</span>
                 
                     
-                        <i class="fa fa-angle-right fa-lg category-icon"></i>
+                        <i class="fa fa-angle-down fa-lg category-icon"></i>
                     
                 
                 
             </a>
+            
+                
+                
+                
+                    
+                
             
             
             
@@ -124,7 +136,7 @@
     
     
         <li data-nav-id="/teaching/lesson/computer-science/ks3/intro-to-programming/" class="dd-item 
-         
+        active 
         
         "
         >
@@ -132,11 +144,17 @@
                 <span>Introduction to Computers and Programming</span>
                 
                     
-                        <i class="fa fa-angle-right fa-lg category-icon"></i>
+                        <i class="fa fa-angle-down fa-lg category-icon"></i>
                     
                 
                 
             </a>
+            
+                
+                
+                
+                    
+                
             
             
             
@@ -231,7 +249,9 @@
                   Teaching Resources
                 </a>
                 
-                 > 
+                   / <a href='/teaching/lesson/computer-science/computer-science/'>Computer Science</a> / <a href='/teaching/lesson/computer-science/ks3/ks3/'>Computer Science - KS3</a> / <a href='/teaching/lesson/computer-science/ks3/intro-to-programming/'>Introduction to Computers and Programming</a>
+                
+                
             </div>
             <div class="progress">
     <div class="wrapper">
@@ -244,11 +264,132 @@
         
         <div id="body-inner">
           
-            <h1></h1>
+            <h1>Introduction to Computers and Programming</h1>
           
 
 
-<p>Teachers Resources</p>
+<p>An intro to programming</p>
+
+<p><img src="/teaching/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow" alt="" /></p>
+
+<pre><code class="language-bash">echo &quot;hello world!!&quot;
+
+ls -la /home/avastmick
+</code></pre>
+
+<iframe id="slideFrame" src="/teaching/none.html" style="width:100%;height:30em; border:0px"></iframe>
+
+<div id="slideContent">
+	<link rel="stylesheet" href="/teaching/revealjs/css/reveal.css">
+	<link rel="stylesheet" href="/teaching/revealjs/css/theme/moon.css" id="theme">
+	<link rel="stylesheet" href="/teaching/revealjs/lib/css/zenburn.css">
+
+	<div class="reveal">
+	<div class="slides">
+	<section data-markdown
+	         data-separator="^---"
+			 data-separator-vertical="^___"
+			 data-separator-notes="^Note:"
+			 data-charset="utf8">
+		
+## Lesson Overview
+
+A practical lesson as an introduction to learning Python. (One Hour)
+
+___
+
+## Objectives
+
+- Understand what computers are for
+- Understand how we can control computers
+- Learn how to instruct a computer using **Python**
+    + "Hello World!!" (standard)
+    + Loops to output many times (intermediate)
+    + Strings and manipulation (advanced)
+___
+
+## Outcomes
+
+- **All:** 
+    + will know that code tells a computer to do work
+    + and know what syntax is
+- **Most:** 
+    + will know how to write simple "Hello World" code in Python
+    + and save it to a file to reuse
+- **Some:** 
+    + will be able to fix errors in their code
+    + will add to their code and solve logical problems in the code
+
+---
+
+# Computers
+
+## What is the purpose of a computer?
+
++ In pairs, discuss and come up with an answer. 
+    + [Two minutes]
++ One person from each pair write the answers on whiteboard.
+
+___
+
+## The Answer
+
+- All the answers lead to the right one
+    + **Automation!!**
+    + Computers do work we find boring, repetitious or difficult.
+
+
+	</section>
+	</div>
+	</div>
+
+	<script src="/teaching/revealjs/lib/js/head.min.js"></script>
+	<script src="/teaching/revealjs/js/reveal.js"></script>
+	<script>
+	function initSlides() {
+		Reveal.initialize({
+		      	embedded : true,
+
+		        controls : "true", 
+ 				center: true ,		
+		        history: "false" ,
+		        progress: "true" ,
+		        transition: "concave",
+
+		        
+		        
+		        dependencies: [
+		          { src: '\/teaching\/revealjs\/lib\/js\/classList.js"', condition: function() { return !document.body.classList; } },
+		          { src: '\/teaching\/revealjs\/plugin\/markdown\/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		          { src: '\/teaching\/revealjs\/plugin\/markdown\/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		          { src: '\/teaching\/revealjs\/plugin\/highlight\/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+		          { src: '\/teaching\/revealjs\/plugin\/zoom-js\/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+		          { src: '\/teaching\/revealjs\/plugin\/notes\/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+		        ]
+		      });
+	}
+	</script>
+</div>
+<li><a href="#" onclick="slideFullScreen();">See it fullscreen</a></li>
+
+<script type="text/javascript">
+var toto = document.getElementById('slideContent').innerHTML
+document.getElementById('slideFrame').contentWindow.document.write(document.getElementById('slideContent').innerHTML); 
+document.getElementById('slideContent').remove();
+document.addEventListener("DOMContentLoaded",function(){
+	  setTimeout(function () {
+      document.getElementById('slideFrame').contentWindow.initSlides() ;
+    }, 2000);
+});
+
+
+function slideFullScreen() {
+	document.open();
+	document.write(toto);
+	document.close();
+	initSlides()
+}
+</script>
 
 
 <footer class=" footline" >
@@ -289,6 +430,7 @@
             
                 
                     
+                    
                 
                 
                 
@@ -296,6 +438,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -317,6 +462,10 @@
 
 
         
+            <a class="nav nav-prev" href="/teaching/lesson/computer-science/ks3/ks3/" title="Computer Science - KS3"> <i class="fa fa-chevron-left"></i></a>
+        
+        
+            <a class="nav nav-next" href="/teaching/lesson/computer-science/ks3/python/" title="Computers and Code" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
