@@ -9,15 +9,20 @@ creatoremail = "mick.clarke@outlook.com"
 type="page"
 
 # page identifier (when empty menu entry will not display for this page)
-identifier="page-id" 
+identifier="00001" 
 # identifier of the parent's page (when empty, page will be attached to rootpage)
-parent="parent-page-id" 
+parent="" 
 # Order page menu entry
 weight = 1
 +++
 
-The Home page
+# Teachers Resources
 
-There will be an explanation here..
+The goal of this site is to present open source teaching resources.
 
-And change
+First up will be subjects in the UK syllabus for KS3, KS4 and A-Level.
+
+- Computer Science
+- Science
+    + Biology
+    + Chemistry

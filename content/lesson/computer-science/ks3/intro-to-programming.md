@@ -1,29 +1,37 @@
 +++
 date = "2017-05-20T10:05:06+08:00"
 draft = false
-title = "intro to programming"
+title = "Introduction to Computers and Programming"
 # Menu configuration
 [menu.main]
 # Creator's Display name
 creatordisplayname = "Mick Clarke"
 # Creator's Email
 creatoremail = "mick.clarke@outlook.com"
+
+
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
 
 # page identifier (when empty menu entry will not display for this page)
 identifier="intro-prog-01" 
 # identifier of the parent's page (when empty, page will be attached to rootpage)
-parent="" 
+parent="cs-main-02" 
 # Order page menu entry
 weight = 1
 +++
+
+
 
 An intro to programming
 
 ![](/teaching/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
-`hello clippy`
+```bash
+echo "hello world!!"
+
+ls -la /home/avastmick
+```
 
 {{<revealjs theme="moon" progress="true" controls="true" progress="true" history="false">}}
 ## Lesson Overview
