@@ -1,6 +1,6 @@
 +++
 date = "2017-05-20T10:05:06+08:00"
-draft = true
+draft = false
 title = "intro to programming"
 # Menu configuration
 [menu.main]
