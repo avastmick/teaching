@@ -1,0 +1,12 @@
+baseURL = "https://avastmick.github.io/"
+languageCode = "en-us"
+title = "Teaching Resources"
+theme = "docdock"
+
+# This will be hosted on Github Pages
+# So, generate to the docs dir
+publishDir = "docs"
+
+# Generates the search indexes
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
