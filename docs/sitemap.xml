@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>teaching/</loc>
+    <loc>/</loc>
     <lastmod>2017-05-20T10:05:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>teaching/lesson/python/</loc>
+    <loc>/lesson/python/</loc>
     <lastmod>2017-05-20T10:35:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>teaching/lesson/intro-to-programming/</loc>
+    <loc>/lesson/intro-to-programming/</loc>
     <lastmod>2017-05-20T10:05:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>teaching/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>teaching/lesson/</loc>
+    <loc>/lesson/</loc>
     <lastmod>2017-05-20T10:35:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>teaching/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
