@@ -23,7 +23,7 @@ An intro to programming
 
 ![](/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
-![](images/lessons/intro-to-prog/IDLE-Editor.png)
+`hello clippy`
 
 {{<revealjs theme="moon" progress="true" controls="true" progress="true" history="false">}}
 ## Lesson Overview

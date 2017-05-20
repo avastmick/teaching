@@ -1,21 +1,43 @@
 # Sub under main github pages for user
-baseURL = "https://avastmick.github.io/teaching/"
+baseURL = "https://avastmick.github.io/"
 # canonifyURLs = true
+
+# This will be hosted on Github Pages
+#   So, generate to the docs dir
+publishDir = "docs"
 
 languageCode = "en-us"
 title = "Teaching Resources"
+
+# Theme configuration
 theme = "docdock"
+themeVariant = "gold"
 
-# This will be hosted on Github Pages
-# So, generate to the docs dir
-publishDir = "docs"
+noHomeIcon = false # default is false
 
+showVisitedLinks = true # default is false
+unfoldedMenus = [ "start" ]
+
+noSearch = false # default is false
 # Generates the search indexes
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+    home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.shortcuts]]
+    pre = "<h3>More</h3>"
+    name = "<i class='fa fa-github'></i> Github repo"
+    identifier = "ds"
+    url = "https://github.com/avastmick/teaching"
+    weight = 1
+
+# [[menu.shortcuts]]
+# name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 2
 
 [blackfriday]
-  angledQuotes = false
-  fractions = true
-  plainIDAnchors = true
-  extensions = ["hardLineBreak"]
+    angledQuotes = false
+    fractions = true
+    plainIDAnchors = true
+    extensions = ["hardLineBreak"]
