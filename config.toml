@@ -2,17 +2,14 @@
 baseURL = "https://avastmick.github.io/teaching/"
 # canonifyURLs = true
 
-# This will be hosted on Github Pages
-#   So, generate to the docs dir
-publishDir = "docs"
 
 languageCode = "en-us"
 title = "Teaching Resources"
 
 # Theme configuration
 theme = "docdock"
-# The theme variant doesn't seem to work
-themeVariant = "gold"
+# The theme variant ["blue", "green", "gold"] 
+themeVariant = "green"
 
 noHomeIcon = false # default is false
 

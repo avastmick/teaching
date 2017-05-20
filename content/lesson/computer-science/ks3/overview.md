@@ -1,14 +1,15 @@
 +++
-date = "2017-05-20T10:05:06+08:00"
+date = "2017-05-21T18:36:24+02:00"
+creatordisplayname = "Mick CLARKE"
+creatoremail = "mick.clarke@outlook.com"
+lastmodifierdisplayname = "Mick CLARKE"
+lastmodifieremail = "mick.clarke@outlook.com"
+tags = ["KS3", "Comp-Sci"]
+
 draft = false
 title = "Computer Science - KS3"
 # Menu configuration
 [menu.main]
-# Creator's Display name
-    creatordisplayname = "Mick Clarke"
-    # Creator's Email
-    creatoremail = "mick.clarke@outlook.com"
-
 
 # Type of content, set "slide" to display it fullscreen with reveal.js
 type="page"
