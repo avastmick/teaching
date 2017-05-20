@@ -25,7 +25,7 @@ weight = 1
 
 An intro to programming
 
-![](/teaching/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
+![](/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
 ```bash
 echo "hello world!!"
