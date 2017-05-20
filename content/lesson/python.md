@@ -90,7 +90,7 @@ ___
 
 Neolithic standing stones helped prehistoric people to work out when to plant crops or go hunting.
 
-![](images/lessons/intro-to-prog/rock-computer.jpg)
+![](/teaching/images/lessons/intro-to-prog/rock-computer.jpg)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 The abacus was an old computer used to make difficult trading calculations easier to remember and record.
 
-![](images/lessons/intro-to-prog/abacus.jpg)
+![](/teaching/images/lessons/intro-to-prog/abacus.jpg)
 
 ---
 
@@ -215,7 +215,7 @@ ___
 - Save the file 
 - Name the file ``HelloWorld.py``
 
-![](images/lessons/intro-to-prog/IDLE-Editor.png)
+![](/teaching/images/lessons/intro-to-prog/IDLE-Editor.png)
 
 ___
 
@@ -225,7 +225,7 @@ ___
 - Or hit ``F5``
 - The output will be the same - ``Hello World!!``
 
-![](images/lessons/intro-to-prog/Output.png)
+![](/teaching/images/lessons/intro-to-prog/Output.png)
 
 ___
 

@@ -21,7 +21,7 @@ weight = 1
 
 An intro to programming
 
-![](/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
+![](/teaching/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
 `hello clippy`
 
