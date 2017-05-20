@@ -2,33 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/teaching/</loc>
+    <loc>https:avastmick.github.io/teaching/</loc>
     <lastmod>2017-05-20T10:05:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/lesson/python/</loc>
+    <loc>https:avastmick.github.io/teaching/lesson/python/</loc>
     <lastmod>2017-05-20T10:35:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/lesson/intro-to-programming/</loc>
+    <loc>https:avastmick.github.io/teaching/lesson/intro-to-programming/</loc>
     <lastmod>2017-05-20T10:05:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/teaching/categories/</loc>
+    <loc>https:avastmick.github.io/teaching/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>https:avastmick.github.io/teaching/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/teaching/lesson/</loc>
+    <loc>https:avastmick.github.io/teaching/lesson/</loc>
     <lastmod>2017-05-20T10:35:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/teaching/tags/</loc>
+    <loc>https:avastmick.github.io/teaching/tags/</loc>
     <priority>0</priority>
   </url>
   

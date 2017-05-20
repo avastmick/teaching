@@ -1,5 +1,5 @@
 # Sub under main github pages for user
-baseURL = "/teaching/"
+baseURL = "https:avastmick.github.io/teaching/"
 # canonifyURLs = true
 
 languageCode = "en-us"
@@ -13,3 +13,9 @@ publishDir = "docs"
 # Generates the search indexes
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[blackfriday]
+  angledQuotes = false
+  fractions = true
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]

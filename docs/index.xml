@@ -2,33 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Resources for All on Teaching Resources</title>
-    <link>/teaching/</link>
+    <link>https:avastmick.github.io/teaching/</link>
     <description>Recent content in Teaching Resources for All on Teaching Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 May 2017 10:05:06 +0800</lastBuildDate>
     
-	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https:avastmick.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computers and Code</title>
-      <link>/teaching/lesson/python/</link>
+      <link>https:avastmick.github.io/teaching/lesson/python/</link>
       <pubDate>Sat, 20 May 2017 10:35:38 +0800</pubDate>
       
-      <guid>/teaching/lesson/python/</guid>
+      <guid>https:avastmick.github.io/teaching/lesson/python/</guid>
       <description>Lesson Overview A practical lesson as an introduction to learning Python. (One Hour)
-Objectives  Understand what computers are for Understand how we can control computers Learn how to instruct a computer using Python  &amp;ldquo;Hello World!!&amp;rdquo; (standard) Loops to output many times (intermediate) Strings and manipulation (advanced) ___   Outcomes  All:  will know that code tells a computer to do work and know what syntax is  Most:  will know how to write simple &amp;ldquo;Hello World&amp;rdquo; code in Python and save it to a file to reuse  Some:  will be able to fix errors in their code will add to their code and solve logical problems in the code   Computers What is the purpose of a computer?</description>
+Objectives  Understand what computers are for
+ Understand how we can control computers
+ Learn how to instruct a computer using Python
+ &amp;ldquo;Hello World!!&amp;rdquo; (standard)
+ Loops to output many times (intermediate)
+ Strings and manipulation (advanced)
+___
+   Outcomes  All:
+ will know that code tells a computer to do work</description>
     </item>
     
     <item>
       <title>intro to programming</title>
-      <link>/teaching/lesson/intro-to-programming/</link>
+      <link>https:avastmick.github.io/teaching/lesson/intro-to-programming/</link>
       <pubDate>Sat, 20 May 2017 10:05:06 +0800</pubDate>
       
-      <guid>/teaching/lesson/intro-to-programming/</guid>
+      <guid>https:avastmick.github.io/teaching/lesson/intro-to-programming/</guid>
       <description>An intro to programming
  ## Lesson Overview A practical lesson as an introduction to learning Python. (One Hour) ___ ## Objectives - Understand what computers are for - Understand how we can control computers - Learn how to instruct a computer using **Python** + &#34;Hello World!!&#34; (standard) + Loops to output many times (intermediate) + Strings and manipulation (advanced) ___ ## Outcomes - **All:** + will know that code tells a computer to do work + and know what syntax is - **Most:** + will know how to write simple &#34;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https:avastmick.github.io/teaching/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https:avastmick.github.io/teaching/_header/</guid>
+      <description>Teachers Resources</description>
     </item>
     
   </channel>
