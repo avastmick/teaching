@@ -11,6 +11,7 @@ title = "Teaching Resources"
 
 # Theme configuration
 theme = "docdock"
+# The theme variant doesn't seem to work
 themeVariant = "gold"
 
 noHomeIcon = false # default is false
