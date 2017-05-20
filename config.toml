@@ -1,6 +1,6 @@
 # Sub under main github pages for user
 baseURL = "/teaching/"
-canonifyURLs = true
+# canonifyURLs = true
 
 languageCode = "en-us"
 title = "Teaching Resources"

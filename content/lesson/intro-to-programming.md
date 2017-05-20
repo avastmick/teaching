@@ -25,7 +25,7 @@ An intro to programming
 
 ![](images/lessons/intro-to-prog/IDLE-Editor.png)
 
-{{<revealjs theme="moon" progress="true" controls="true" progress="true" history="true">}}
+{{<revealjs theme="moon" progress="true" controls="true" progress="true" history="false">}}
 ## Lesson Overview
 
 A practical lesson as an introduction to learning Python. (One Hour)
