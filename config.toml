@@ -1,5 +1,5 @@
 # Sub under main github pages for user
-baseURL = "https://avastmick.github.io/teaching"
+baseURL = "https://avastmick.github.io/teaching/"
 # canonifyURLs = true
 
 languageCode = "en-us"
