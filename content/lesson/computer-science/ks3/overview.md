@@ -7,7 +7,7 @@ lastmodifieremail = "mick.clarke@outlook.com"
 tags = ["KS3", "Comp-Sci"]
 
 draft = false
-title = "Computer Science - KS3"
+title = "KS3"
 # Menu configuration
 [menu.main]
 
