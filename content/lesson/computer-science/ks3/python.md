@@ -13,9 +13,7 @@ progress= true
 history= false
 center= true
 
-[menu]
-
-  [menu.main]
+[menu.main]
     identifier = "intro-prog-02"
     parent = "intro-prog-01"
     weight = 20
@@ -157,11 +155,12 @@ Open Python IDLE (Python Commandline)
 
 - Should look something like this:
 
-```
+```python
 Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:53:40) [MSC v.1500 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
 
 ___
 
@@ -170,7 +169,7 @@ ___
 Type in: 
 
 ```python
->>> print "Hello World!"
+>>> print ("Hello World!")
 ```
 
 You should see the computer output: 
@@ -201,7 +200,7 @@ So, what do you do when you want to write something complicated and use it again
 #!/usr/bin/python
 
 def some_function():
-    print "Hello World!!"
+    print ("Hello World!!")
 
 some_function()
 ```
@@ -227,7 +226,7 @@ ___
 
 ![](/images/lessons/intro-to-prog/Output.png)
 
-___
+---
 
 ## Errors
 
@@ -240,12 +239,12 @@ ___
 ```python  
 >>> print "Hello World!
   File "<stdin>", line 1
-    print "Hello World!
-                      ^
+    print "Hello World! 
+                       ^
 SyntaxError: EOL while scanning string literal
 ```
 
----
+___
 
 ## Indentation
 
@@ -257,18 +256,20 @@ Python **SYNTAX** includes **indentaton**
 
 ```python
 def some_function():
-    print "Hello World!!"
+    print ("Hello World!!")
 
-↑↑↑↑ indented four characters of whitespace
+^^^^ indented four characters of whitespace
 ```
 
 Your indentation **MUST** be consistent, or Python will give you an error!
+
+---
 
 # Make the computer do the work
 
 Automation is our goal, let's type less...
 
-----
+___
 
 ## Task
 
@@ -282,7 +283,7 @@ You'll need a loop for that!
 
 ```python
 >>> for i in range(1,10):
-...     print "Hello World!!"
+...     print ("Hello World!!")
 ```
 
 ---
@@ -353,7 +354,7 @@ hello = list("Hello World!!")
 for i in hello:
     if i != hello[0]:
         del hello[-1]
-    print ''.join(hello)
+    print (''.join(hello))
 ```
 
 ___
@@ -366,7 +367,7 @@ strLth = len(hello)
 for i in range(0,strLth):
     if i != 0:
         del hello[-1]
-    print ''.join(hello)
+    print (''.join(hello))
 ```
 
 ---
@@ -398,7 +399,7 @@ Notes on Github...
 
 Lesson plan, examples and notes can be found at:
 
-<https://avastmick.github.io/intro-computers-python/>
+<https://avastmick.github.io/lesson/computer-science/ks3/python/>
 
 
 
