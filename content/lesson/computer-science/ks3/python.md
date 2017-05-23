@@ -34,6 +34,7 @@ ___
     + "Hello World!!" (standard)
     + Loops to output many times (intermediate)
     + Strings and manipulation (advanced)
+
 ___
 
 ## Outcomes

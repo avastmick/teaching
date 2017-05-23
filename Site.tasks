@@ -1,0 +1,32 @@
+# The tasks that are needed to make this site awesome
+
+# Features
+
+ ✔ Easy to manage Taxonomies (Hugo OOB and DocDock OOB) @done (17-05-23 11:50)
+ ✔ Slides (response.js - DocDocs OOB) @done (17-05-23 11:51)
+ ☐ Responsive design on mobile (DocDocs OOB)
+ ☐ Attachments
+ ☐ Alerts
+ ☐ Code
+ ☐ QUIZ revision function (JS and cookies to hold scores..?)
+ ☐ Download content into PDF or similar for slides
+ ☐ Upload to content owner (BIG ONE - use email provided OOB?)
+
+# Collaboration
+
+## Site and application
+
+ ☐ Viable PRs back to DocDock repo
+ ☐ Addition features (see Build)
+ ☐ Create an example site
+ 
+## Collaboration
+
+ ☐ Issues and management
+ ☐ PRs and QA
+ ☐ Quality
+
+# Deployment and hosting
+ ☐ Find a decent (cheap) hosting in China
+ ☐ Mirror to something like Netlify
+ ☐ Add in a CI
