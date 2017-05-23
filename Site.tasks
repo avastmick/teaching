@@ -5,9 +5,10 @@
  ✔ Easy to manage Taxonomies (Hugo OOB and DocDock OOB) @done (17-05-23 11:50)
  ✔ Slides (response.js - DocDocs OOB) @done (17-05-23 11:51)
  ☐ Responsive design on mobile (DocDocs OOB)
- ☐ Attachments
- ☐ Alerts
- ☐ Code
+ ✔ Attachments @done (17-05-23 12:54)
+ ✔ Alerts @done (17-05-23 12:54)
+ ✔ Code highlighting @done (17-05-23 12:54)
+ ☐ Print to PDF
  ☐ QUIZ revision function (JS and cookies to hold scores..?)
  ☐ Download content into PDF or similar for slides
  ☐ Upload to content owner (BIG ONE - use email provided OOB?)
