@@ -11,6 +11,8 @@ theme = "docdock"
 # The theme variant ["blue", "green", "gold"] 
 themeVariant = "green"
 
+pygmentsuseclasses = true
+
 noHomeIcon = false # default is false
 
 showVisitedLinks = true # default is false

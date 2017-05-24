@@ -37,6 +37,19 @@ ___
 
 ___
 
+## Code
+
+{{< highlight python "linenos=inline" >}}
+def _hello():
+    # Print out the message
+    print ("Hello World!!")
+
+_hello()
+
+{{< /highlight >}}
+
+___
+
 ## Outcomes
 
 - **All:** 

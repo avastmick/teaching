@@ -27,11 +27,45 @@ An intro to programming
 
 ![](/images/lessons/intro-to-prog/IDLE-Editor.png?classes=border,shadow)
 
-```bash
-echo "hello world!!"
 
-ls -la /home/avastmick
+Compare code highlighting:
+
+**Simple:**
+
+```python
+def _hello():
+    # Print out the message
+    print ("Hello World!!")
+
+_hello()
+
 ```
+
+**Using Pygments (gives you line numbers and other things)**
+
+Syntax in MD is:
+
+~~~text
+
+{{</* highlight go "linenos=inline,hl_lines=2 3" */>}}
+
+YOUR CODE, where 'linenos=inline' turns on line numbering
+            and 'hl_lines' gives the range of lines to be highlighted
+
+{{</* / highlight */>}}
+
+~~~
+
+{{< highlight python "linenos=inline,hl_lines=2 3" >}}
+def _hello():
+    # Print out the message
+    print ("Hello World!!")
+
+_hello()
+
+{{< /highlight >}}
+
+**Doesn't render in Edge**
 
 {{<revealjs theme="moon" progress="true" controls="true" progress="true" history="false">}}
 ## Lesson Overview
