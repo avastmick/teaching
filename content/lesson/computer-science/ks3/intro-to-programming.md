@@ -1,7 +1,7 @@
 +++
 date = "2017-05-20T10:05:06+08:00"
 draft = false
-title = "Introduction to Computers and Programming"
+title = "Introduction to Programming"
 # Menu configuration
 [menu.main]
 # Creator's Display name
