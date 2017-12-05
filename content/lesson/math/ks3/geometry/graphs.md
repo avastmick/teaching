@@ -21,9 +21,7 @@ center= true
 
 ## Points
 
-```math
-y = 2x
-```
+``y = 2x``
 
 <canvas data-chart="line">
 <!--
