@@ -23,7 +23,7 @@ center= true
 
 ``y = 2x``
 
-<canvas data-chart="line">
+<canvas data-chart="bar">
 <!--
     {
         "data": {

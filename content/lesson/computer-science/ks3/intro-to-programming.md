@@ -32,6 +32,8 @@ Compare code highlighting:
 
 **Simple:**
 
+``inline code x= 2y``
+
 ```python
 def _hello():
     # Print out the message
